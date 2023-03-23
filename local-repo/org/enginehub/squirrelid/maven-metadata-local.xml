@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.enginehub</groupId>
+  <artifactId>squirrelid</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230323073008</lastUpdated>
+  </versioning>
+</metadata>

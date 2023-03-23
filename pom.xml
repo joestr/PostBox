@@ -93,6 +93,10 @@
   
   <repositories>
     <repository>
+      <id>local-repo</id>
+      <url>file://${project.basedir}/local-repo</url>
+    </repository>
+    <repository>
       <id>joestrhq-public-releases-repo</id>
       <name>joestrhq's public repo for releases</name>
       <url>https://mvn-repo.joestr.at/repository/releases/</url>
@@ -151,9 +155,7 @@
       <groupId>org.enginehub</groupId>
       <artifactId>squirrelid</artifactId>
       <version>0.3.2-SNAPSHOT</version>
-      <scope>system</scope>
-      <type>jar</type>
-      <systemPath>${project.basedir}/libs/squirrelid-0.3.2-SNAPSHOT.jar</systemPath>
+      <scope>compile</scope>
       <exclusions>
         <exclusion>
           <groupId>com.destroystokyo.paper</groupId>

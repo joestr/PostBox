@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.enginehub</groupId>
+  <artifactId>squirrelid</artifactId>
+  <versioning>
+    <lastUpdated>20230323073008</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.3.2-SNAPSHOT</value>
+        <updated>20230323073008</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3.2-SNAPSHOT</value>
+        <updated>20230323073008</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.3.2-SNAPSHOT</version>
+</metadata>
